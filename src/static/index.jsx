@@ -1,5 +1,3 @@
-
-
 export const LINKS = [
     {
         id: 1,
@@ -21,4 +19,4 @@ export const LINKS = [
         path: "/login",
         text: "Login"
     },
-]
+]   
